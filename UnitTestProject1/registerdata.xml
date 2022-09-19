@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<register>
+	<Email>mahakhan21.mk67@gmail.com</Email>
+	<FirstName>Maham</FirstName>
+	<LastName>Akhlaq</LastName>
+	<Password>HelloWorld</Password>
+	<Company>MAC</Company>
+	<Address>Street 3, ABC Area</Address>
+	<Address2>Apartment 1</Address2>
+	<City>New york</City>
+	<Zip>75245</Zip>
+	<Number>0017231287650</Number>
+</register>
