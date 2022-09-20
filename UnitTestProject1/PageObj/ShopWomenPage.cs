@@ -20,12 +20,6 @@ namespace UnitTestProject1.PageObj
             this.driver = driver;
         }
 
-        //public void Size()
-        //{
-        //    IWebElement DropDownWomen = driver.FindElement(By.Id("group_1"));
-        //    SelectElement SelectDrop = new SelectElement(DropDownWomen);
-        //    SelectDrop.SelectByValue("2");
-        //}
         public void AddtoCart()
         {
             Thread.Sleep(5000);

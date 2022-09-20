@@ -27,12 +27,6 @@ namespace UnitTestProject1.TestAuto
             loginpage.LogoutExists();
             Thread.Sleep(5000);
 
-        }
-        [TestMethod]
-        public void WomenTest()
-        {
-
-            var loginpage = new LoginPage(driver);
             var women = loginpage.NavigatetoWomen();
             women.CheckBoxCategories();
             women.CheckBoxSize();
